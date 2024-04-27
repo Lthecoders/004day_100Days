@@ -18,10 +18,6 @@
 # print("Uh, oh, you've been given a", "\033[35m", "warning", "\033[0m",
 #       "for being a bad, bad person.")
 
+# print("\033[31m","you are a devil","\033[32m","\n i am a god")
 
-
-
-
-print("\033[31m","you are a devil","\033[32m","\n i am a god")
-
-
+print("git hub is", "\033[34m", "great")
